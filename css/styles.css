@@ -645,7 +645,7 @@ p {
 }
 
 .modal-window-form-div {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-window-form-label {
@@ -764,4 +764,8 @@ p {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
+}
+
+.text-area {
+  margin-bottom: 16px;
 }
